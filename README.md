@@ -18,9 +18,7 @@ To segment TravelTide users based on their demographics and behaviour, and assig
 
 **PowerPoint / Canva – Final presentation**
 
-### Methodology
-
-### Methodology
+## Methodology
 
 **Cohort Selection**
 - Focused on high-engagement users (8+ sessions since 4 Jan 2023)  
