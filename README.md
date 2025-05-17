@@ -82,4 +82,4 @@ To segment TravelTide users based on their demographics and behaviour, and assig
 - README.md – This document
 
 ## Notes
-This project was completed as part of a data analytics training programme. All data is fictional and created for educational use.
+*This project was completed as part of a data analytics training programme. All data is fictional and created for educational use.*
